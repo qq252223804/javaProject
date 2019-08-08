@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12e9b3cf-8dfc-41c9-994a-3018ed81f01d" name="默认更改列表" comment="" />
+    <list default="true" id="12e9b3cf-8dfc-41c9-994a-3018ed81f01d" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/thrid_week/hashmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thrid_week/list与set_random.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thrid_week/list与set_random.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,11 +66,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/list与set_random.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="31" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="26" selection-end-column="31" />
+            <state relative-caret-position="198">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/hashmap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -224,18 +239,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/TestStream对象流.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -250,10 +253,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/example.java" />
         <option value="$PROJECT_DIR$/src/main/java/fist_week/Example.java" />
         <option value="$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/AD.java" />
         <option value="$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/ADHero.java" />
@@ -304,6 +309,7 @@
         <option value="$PROJECT_DIR$/src/main/java/thrid_week/List泛型.java" />
         <option value="$PROJECT_DIR$/src/main/java/thrid_week/random.java" />
         <option value="$PROJECT_DIR$/src/main/java/thrid_week/list与set_random.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thrid_week/hashmap.java" />
       </list>
     </option>
   </component>
@@ -331,11 +337,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="72" />
-    <option name="y" value="48" />
+    <option name="x" value="326" />
+    <option name="y" value="127" />
     <option name="width" value="1386" />
     <option name="height" value="754" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -429,7 +436,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.hashmap">
     <configuration name="ArrayList存对象" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="thrid_week.ArrayList存对象" />
       <module name="myproject" />
@@ -469,8 +476,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStream对象流" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thrid_week.TestStream对象流" />
+    <configuration name="hashmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thrid_week.hashmap" />
       <module name="myproject" />
       <extension name="coverage">
         <pattern>
@@ -496,19 +503,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestStream对象流" />
       <item itemvalue="Application.ArrayList存对象" />
       <item itemvalue="Application.List多态" />
       <item itemvalue="Application.List泛型" />
       <item itemvalue="Application.list与set_random" />
+      <item itemvalue="Application.hashmap" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hashmap" />
         <item itemvalue="Application.list与set_random" />
         <item itemvalue="Application.List泛型" />
         <item itemvalue="Application.List多态" />
         <item itemvalue="Application.ArrayList存对象" />
-        <item itemvalue="Application.TestStream对象流" />
       </list>
     </recent_temporary>
   </component>
@@ -549,12 +556,12 @@
       <workItem from="1565069678714" duration="3872000" />
       <workItem from="1565141538994" duration="594000" />
       <workItem from="1565227653288" duration="1289000" />
-      <workItem from="1565244597123" duration="8427000" />
+      <workItem from="1565244597123" duration="9979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200090000" />
+    <option name="totallyTimeSpent" value="201642000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -566,7 +573,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8" visible="true" weight="0.21255673" />
@@ -578,7 +585,7 @@
       <window_info id="设计器" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33169934" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969743" visible="true" weight="0.18300654" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969743" visible="true" weight="0.2569558" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -609,13 +616,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/goods.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -989,8 +989,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/list与set_random.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="31" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="26" selection-end-column="31" />
+        <state relative-caret-position="198">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/hashmap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
