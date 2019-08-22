@@ -32,7 +32,7 @@ public class Hero1 extends hero_base {
    //直接传类的 新对象 然后调用对象的方法
    public void useItem(Item i){
 	   System.out.println("hero use item");
-	   i.effect("血瓶");
+	   i.effect(name,"血瓶");
    }
 
 	public static void main(String[] args) {
@@ -47,7 +47,7 @@ public class Hero1 extends hero_base {
 
 		LifePotion ii =new LifePotion();
 		h2.useItem(ii);
-		System.out.println(bh.toString());
+		System.out.println(h2.toString());
 
 	}
 

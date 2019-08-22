@@ -12,7 +12,7 @@ public class Test1 {
 		System.out.println("方法1");
 	}
 
-	int i = 1; //属性名是i
+	static int i = 1; //属性名是i
 
 	public void method1(int i) { //参数也是i
 		System.out.println(i);
@@ -26,7 +26,7 @@ public class Test1 {
 		//static 类自己的方法
 		test2();
 		//不用实例化
-		new Test1().method1(5);
+		new Test1().method1(i);
 
 
 	}

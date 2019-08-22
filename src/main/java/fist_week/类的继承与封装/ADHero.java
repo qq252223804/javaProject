@@ -3,7 +3,7 @@ package fist_week.类的继承与封装;
 import javax.print.attribute.standard.MediaSize;
 
 public class ADHero extends Hero1 implements AD{
-//ADhero类继承 Hero父类 并实现 AD抽象类
+//ADhero类继承 Hero1父类 并实现 AD抽象类
 	public ADHero(String name, float hp) {
 		super(name, hp); //引用父类的变量属性
 	}

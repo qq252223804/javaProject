@@ -32,6 +32,7 @@ public class 冒泡 {
 		//创建一个list泛型
 		List<Integer> list = new ArrayList<>();
 //		for(int kk:a){
+
 //			System.out.println(kk);
 //		}
 		for (int kk=0;kk<a.length;kk++) {
