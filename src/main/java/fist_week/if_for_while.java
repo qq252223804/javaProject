@@ -1,4 +1,4 @@
-package fist_week;
+package src.main.java.fist_week;
 
 import java.util.Random;
 
