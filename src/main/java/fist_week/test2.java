@@ -15,14 +15,14 @@ public class test2 {
 			a = a + b;
 			b = a + b;
 		}
-		for (int cc = 1; cc <= 9; cc++) {
-			for (int dd = 1; dd <= cc; dd++) {
-				System.out.print(
-						dd + "*" + cc + "=" + cc * dd+"\t"
-				);
-			}
-			System.out.println();
-		}
+//		for (int cc = 1; cc <= 9; cc++) {
+//			for (int dd = 1; dd <= cc; dd++) {
+//				System.out.print(
+//						dd + "*" + cc + "=" + cc * dd+"\t"
+//				);
+//			}
+//			System.out.println();
+//		}
 	}
 
 }

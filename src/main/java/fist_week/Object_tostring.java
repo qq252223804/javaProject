@@ -12,7 +12,7 @@ public class Object_tostring {
 		System.out.println("可以传任意参数的构造器"+obj);
 	}
 	//传object对象
-	public static Object toStrings(Object obj){
+	public static Object obj_toStrings(Object obj){
 		return obj;
 	}
 
@@ -24,15 +24,16 @@ public class Object_tostring {
 	}
 
 
-//封装静态方法tostrings
+//封装静态方法obj_toStrings
 	void f(Object obj) {
+//		只是多一步打印
 		System.out.println(obj);
-		Object_tostring.toStrings(obj);
+		Object_tostring.obj_toStrings(obj);
 
 	}
 	public static void main(String[] args) {
 
-		Object_tostring exam = new Object_tostring();
+
 
 		int[] array = new int[4];
 		for(int i=0;i<array.length;i++) {
@@ -40,7 +41,10 @@ public class Object_tostring {
 			System.out.println(array[i]);
 
 		}
-		exam.f(Arrays.toString(array));
+		System.out.println(Arrays.toString(array));
+
+		Object_tostring exam = new Object_tostring();
+		exam.obj_toStrings(Arrays.toString(array));
 
 		System.out.println(exam.toString());
 

@@ -9,7 +9,7 @@ import java.nio.charset.Charset;
 public class 字符流File_write_read {
 	public static void main(String[] args) {
 		System.out.println("默认编码方式:"+ Charset.defaultCharset());
-		File f = new File("C:\\Users\\p\\Desktop\\myproject\\src\\main\\java\\second_week\\lol.txt");
+		File f = new File("src/main/java/second_week/lol.txt");
 		// 创建基于文件的Writer
 		try (FileWriter fr = new FileWriter(f)) {
 			// 以字符流的形式把数据写入到文件中

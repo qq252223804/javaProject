@@ -11,6 +11,7 @@ public class 字符串转数组 {
 		System.out.println(s1);
 		//循环数组的内容
 		for(char i: s1) {
+
 			//用||或 or的意思
 			if(Character.isUpperCase(i) || Character.isDigit(i))
 				System.out.print(i);

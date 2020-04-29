@@ -2,72 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12e9b3cf-8dfc-41c9-994a-3018ed81f01d" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fist_week/interface_enum/IStringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/on_the_road/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/on_the_road/Mapobject_Jsonobject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/on_the_road/News.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/on_the_road/SerializeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/on_the_road/Set与list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/on_the_road/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/on_the_road/hashmap与hashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/on_the_road/list中map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/on_the_road/map_tostring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/on_the_road/map与hashmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/on_the_road/scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/on_the_road/排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/on_the_road/类型转换.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fist_week/DateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fist_week/DateDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fist_week/if_for_while.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fist_week/if_for_while.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fist_week/interface_enum/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fist_week/interface_enum/IStringBuffer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fist_week/Object_tostring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fist_week/Object_tostring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/fist_week/interface_enum/EnumValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fist_week/interface_enum/EnumValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fist_week/interface_enum/IStringBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/fist_week/interface_enum/IStringBuffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fist_week/interface_enum/OrderFromSourceEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fist_week/interface_enum/OrderFromSourceEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fist_week/interface_enum/TestColor_order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/Char_sub_split.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/DateDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/Datetime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/List数组.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/Object_tostring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/People.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/Swith_break_continue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/Test_Scanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/cope_int数组.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/if_for_while.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/int_string数组sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/interface_enum/Behaviour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/interface_enum/Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/interface_enum/EnumValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/interface_enum/IStringBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/interface_enum/MyStringBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/interface_enum/OrderFromSourceEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/interface_enum/TestColor_order$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/interface_enum/TestColor_order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/string的可变字符delect_insert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/trim_indexof_replaceAll.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/三元运算.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/冒泡.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/字符串转数组.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/格式化format.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/类的继承与封装/AD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/类的继承与封装/ADAPHero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/类的继承与封装/ADHero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/类的继承与封装/AP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/类的继承与封装/APHero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/类的继承与封装/Hero1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/类的继承与封装/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/类的继承与封装/LifePotion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/类的继承与封装/Lol.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/类的继承与封装/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/类的继承与封装/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/类的继承与封装/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/类的继承与封装/good_base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/类的继承与封装/goods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fist_week/类的继承与封装/hero_base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/second_week/File_path.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/second_week/Stream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/second_week/try_catch_file.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/second_week/字符流File_write_read.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/second_week/缓存流buffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thrid_week/ArrayList存对象.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thrid_week/Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thrid_week/List多态.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thrid_week/List泛型.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thrid_week/TestStream对象流.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thrid_week/list与set_random.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thrid_week/object_file$hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thrid_week/object_file.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fist_week/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fist_week/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fist_week/trim_indexof_replaceAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fist_week/trim_indexof_replaceAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fist_week/字符串转数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fist_week/字符串转数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/Hero1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/Hero1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/second_week/File_path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/second_week/File_path.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/second_week/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/second_week/Stream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/second_week/stream.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/second_week/字符流File_write_read.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/second_week/字符流File_write_read.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/second_week/缓存流buffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/second_week/缓存流buffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thrid_week/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thrid_week/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thrid_week/TestStream对象流.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thrid_week/TestStream对象流.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thrid_week/garen.lol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thrid_week/hashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thrid_week/hashmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thrid_week/heros.lol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thrid_week/object_file.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thrid_week/object_file.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -104,28 +74,61 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/Char_sub_split.java">
+        <entry file="file://$PROJECT_DIR$/src/main/on_the_road/hashmap与hashset.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="285">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/cope_int数组.java">
+        <entry file="file://$PROJECT_DIR$/src/main/on_the_road/News.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-800">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="95">
+              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/on_the_road/list中map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/on_the_road/map_tostring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-380">
+              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/on_the_road/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/DateDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/on_the_road/Mapobject_Jsonobject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="266">
+              <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,60 +137,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/Datetime.java">
+        <entry file="file://$PROJECT_DIR$/src/main/on_the_road/map与hashmap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            <state relative-caret-position="176">
+              <caret line="41" selection-start-line="41" selection-end-line="43" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#341#356#0" expanded="true" />
+                <element signature="e#973#988#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/interface_enum/EnumValue.java">
+        <entry file="file://$PROJECT_DIR$/src/main/on_the_road/scanner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/on_the_road/SerializeUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/interface_enum/MyStringBuffer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1133">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/int_string数组sort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-857">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/Test_Scanner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/interface_enum/OrderFromSourceEnum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -197,11 +173,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Tag Library Descriptor" />
         <option value="XHTML File" />
         <option value="FxmlFile" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -210,6 +186,10 @@
     <findStrings>
       <find>get</find>
       <find>getcolor</find>
+      <find>readObject</find>
+      <find>attack</find>
+      <find>HashMap</find>
+      <find>hashMap1</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -218,57 +198,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/格式化format.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/字符串转数组.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/Char.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/Char_sub_split_indexof.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/trim_indexof.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/trim_indexof_replaceAll.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/int_string数组.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/Stringbuffer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/string的可变字符.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/string的可变字符delect_insert.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/int_string数组sort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/interface_enum/IStringBuffer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/interface_enum/MyStringBuffer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/Datetime.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/Test2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/second_week/异常处理/try_catch_file.java" />
-        <option value="$PROJECT_DIR$/src/main/java/second_week/LOL.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/second_week/File_path.java" />
-        <option value="$PROJECT_DIR$/src/main/java/second_week/lol.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/second_week/File_write_read.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/APHero.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/Object_tostring.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/三元运算.java" />
-        <option value="$PROJECT_DIR$/src/main/java/second_week/Stream.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/cope_int数组.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/test2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/second_week/try_catch_file.java" />
-        <option value="$PROJECT_DIR$/src/main/java/second_week/缓存流buffer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/second_week/字符流File_write_read.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thrid_week/object_file.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thrid_week/Hero.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thrid_week/TestStream对象流.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thrid_week/ArrayList存对象.java" />
         <option value="$PROJECT_DIR$/src/main/java/thrid_week/List多态.java" />
         <option value="$PROJECT_DIR$/src/main/java/thrid_week/List泛型.java" />
         <option value="$PROJECT_DIR$/src/main/java/thrid_week/random.java" />
         <option value="$PROJECT_DIR$/src/main/java/thrid_week/list与set_random.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thrid_week/hashmap.java" />
         <option value="$PROJECT_DIR$/src/main/java/fist_week/冒泡.java" />
         <option value="$PROJECT_DIR$/src/main/java/fist_week/Test1.java" />
         <option value="$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/ADHero.java" />
         <option value="$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/Item.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/Hero1.java" />
         <option value="$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/LifePotion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fist_week/interface_enum/EnumValue.java" />
         <option value="$PROJECT_DIR$/src/main/java/fist_week/interface_enum/OrderFromSourceEnum.java" />
         <option value="$PROJECT_DIR$/src/main/java/fist_week/if_for_while.java" />
         <option value="$PROJECT_DIR$/src/main/java/fist_week/interface_enum/TestColor_order.java" />
         <option value="$PROJECT_DIR$/src/main/java/fist_week/interface_enum/Color.java" />
         <option value="$PROJECT_DIR$/src/main/java/fist_week/Char_sub_split.java" />
         <option value="$PROJECT_DIR$/src/main/java/fist_week/DateDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/user_Serializable.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/user.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fist_week/interface_enum/EnumValue.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/write_user.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/write_read_user.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/User.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/scanner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fist_week/test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fist_week/trim_indexof_replaceAll.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fist_week/字符串转数组.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/Hero1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/second_week/stream.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/second_week/File_path.java" />
+        <option value="$PROJECT_DIR$/src/main/java/second_week/缓存流buffer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/second_week/字符流File_write_read.java" />
+        <option value="$PROJECT_DIR$/src/main/java/second_week/Stream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thrid_week/object_file.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thrid_week/Hero.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thrid_week/TestStream对象流.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/SerializeUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/排序.java" />
+        <option value="$PROJECT_DIR$/fist_week/interface_enum/IStringBuffer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fist_week/interface_enum/IStringBuffer.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/类型转换.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thrid_week/hashmap.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/News.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/list中map.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fist_week/Object_tostring.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/hashmap与hashset.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/Set与list.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/map_tostring.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/JSONObject.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/object_jsonobject.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/map与hashmap.java" />
+        <option value="$PROJECT_DIR$/src/main/on_the_road/Mapobject_Jsonobject.java" />
       </list>
     </option>
   </component>
@@ -302,10 +282,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="197" />
-    <option name="y" value="117" />
-    <option name="width" value="1026" />
-    <option name="height" value="546" />
+    <option name="x" value="-31" />
+    <option name="y" value="48" />
+    <option name="width" value="1364" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -313,7 +293,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -337,26 +317,20 @@
               <item name="myproject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="on_the_road" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="myproject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fist_week" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myproject" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -365,26 +339,29 @@
     <property name="ToolWindowMessages.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javadubbo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="fist_week.类的继承与封装" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="thrid_week" />
-      <recent name="dubbo" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\脚本py+java\myproject" />
       <recent name="C:\Users\p\Desktop\myproject\src\main\resources" />
       <recent name="C:\Users\p\Desktop\myproject" />
       <recent name="C:\Users\p\Desktop\myproject\src\main\java" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="src.main.on_the_road" />
+      <recent name="thrid_week" />
+      <recent name="dubbo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -399,15 +376,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DateDemo">
-    <configuration name="Char_sub_split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="fist_week.Char_sub_split" />
+  <component name="RunManager">
+    <configuration name="Mapobject_Jsonobject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.on_the_road.Mapobject_Jsonobject" />
       <module name="myproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fist_week.*" />
+          <option name="PATTERN" value="src.main.on_the_road.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -415,12 +390,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fist_week.DateDemo" />
+    <configuration name="Set与list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.on_the_road.Set与list" />
       <module name="myproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fist_week.*" />
+          <option name="PATTERN" value="src.main.on_the_road.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -428,12 +403,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fist_week.interface_enum.MyStringBuffer" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.on_the_road.Test" />
       <module name="myproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fist_week.interface_enum.*" />
+          <option name="PATTERN" value="src.main.on_the_road.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -441,14 +416,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestColor_order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="D:\jdk1.8.0_111\jre" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="src.main.java.fist_week.interface_enum.TestColor_order" />
+    <configuration name="map_tostring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.on_the_road.map_tostring" />
       <module name="myproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.main.java.fist_week.interface_enum.*" />
+          <option name="PATTERN" value="src.main.on_the_road.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -456,12 +429,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cope_int数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fist_week.cope_int数组" />
+    <configuration name="map与hashmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.on_the_road.map与hashmap" />
       <module name="myproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fist_week.*" />
+          <option name="PATTERN" value="src.main.on_the_road.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -470,19 +443,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Char_sub_split" />
-      <item itemvalue="Application.TestColor_order" />
-      <item itemvalue="Application.MyStringBuffer" />
-      <item itemvalue="Application.cope_int数组" />
-      <item itemvalue="Application.DateDemo" />
+      <item itemvalue="Application.map与hashmap" />
+      <item itemvalue="Application.Set与list" />
+      <item itemvalue="Application.map_tostring" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Mapobject_Jsonobject" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DateDemo" />
-        <item itemvalue="Application.cope_int数组" />
-        <item itemvalue="Application.MyStringBuffer" />
-        <item itemvalue="Application.TestColor_order" />
-        <item itemvalue="Application.Char_sub_split" />
+        <item itemvalue="Application.Mapobject_Jsonobject" />
+        <item itemvalue="Application.map与hashmap" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.map_tostring" />
+        <item itemvalue="Application.Set与list" />
       </list>
     </recent_temporary>
   </component>
@@ -537,11 +510,13 @@
       <workItem from="1586683488237" duration="4465000" />
       <workItem from="1586754386401" duration="741000" />
       <workItem from="1586755255257" duration="1745000" />
+      <workItem from="1587908953034" duration="45344000" />
+      <workItem from="1588155788664" duration="4313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220327000" />
+    <option name="totallyTimeSpent" value="269984000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -556,7 +531,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8" visible="true" weight="0.14145234" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8" visible="true" weight="0.04614221" />
       <window_info id="Structure" order="1" sideWeight="0.2" side_tool="true" weight="0.2624811" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -565,29 +540,30 @@
       <window_info id="设计器" order="6" />
       <window_info id="Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.33169934" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969743" visible="true" weight="0.35679215" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33060557" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.4969743" visible="true" weight="0.3617021" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.36764705" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4976672" weight="0.3764321" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4976672" weight="0.41080198" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4977307" weight="0.3657718" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5030257" side_tool="true" weight="0.33169934" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.57610476" />
       <window_info anchor="bottom" id="调试" order="13" weight="0.28431374" />
+      <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24923313" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.022692889" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="调色板" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Palette" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="调色板" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.069785275" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3290469" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -598,121 +574,17 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/ArrayList存对象.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/heros.lol">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/second_week/stream.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/second_week/lol.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/second_week/try_catch_file.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/second_week/LOL.exe">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/garen.lol">
+    <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/timo.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/second_week/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/list与set_random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/hashmap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/字符串转数组.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <caret column="49" selection-start-column="49" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/TestStream对象流.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="31" column="38" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/object_file.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="39" column="40" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/List多态.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="-33">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -721,167 +593,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/List泛型.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/格式化format.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/冒泡.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/三元运算.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/trim_indexof_replaceAll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/AD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/ADAPHero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/ADHero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/Hero1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/goods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/APHero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/AP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/LifePotion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/Lol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="18" />
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/Item.java">
+    <entry file="file://$PROJECT_DIR$/fist_week/interface_enum/IStringBuffer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/interface_enum/OrderFromSourceEnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/List数组.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/interface_enum/TestColor_order.java" />
-    <entry file="jar://D:/jdk1.8.0_111/src.zip!/java/awt/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13414">
-          <caret line="751" column="24" selection-start-line="751" selection-start-column="24" selection-end-line="751" selection-end-column="24" />
-          <folding>
-            <element signature="e#24437#24438#0" expanded="true" />
-            <element signature="e#24478#24479#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/interface_enum/Color.java" />
-    <entry file="file://$PROJECT_DIR$/fist_week/interface_enum/IStringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        <state relative-caret-position="247">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -892,38 +613,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/if_for_while.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/interface_enum/OrderFromSourceEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/interface_enum/MyStringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1133">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="22">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/int_string数组sort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/on_the_road/排序.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-857">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="201">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/Test_Scanner.java">
+    <entry file="file://$PROJECT_DIR$/src/main/on_the_road/类型转换.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_111/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14434">
+          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_111/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <caret line="275" column="46" selection-start-line="275" selection-start-column="39" selection-end-line="275" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#19296#19297#0" expanded="true" />
+            <element signature="e#19379#19380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/heros.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/hashmap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="18" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#233#248#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -934,43 +677,287 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/Datetime.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/APHero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/ADAPHero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/Char_sub_split.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/AD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="76">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/cope_int数组.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-800">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk1.8.0_111/src.zip!/java/util/Date.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/goods.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="130" column="13" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/AP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/DateDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="-76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/cope_int数组.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/if_for_while.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/interface_enum/IStringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/Lol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/类的继承与封装/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/int_string数组sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/string的可变字符delect_insert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-284">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thrid_week/ArrayList存对象.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/on_the_road/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-284">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#958#959#0" expanded="true" />
+            <element signature="e#1039#1040#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_111/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="189" column="12" selection-start-line="189" selection-start-column="12" selection-end-line="189" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/on_the_road/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="85" lean-forward="true" selection-start-column="85" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/Object_tostring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_111/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="195" column="17" selection-start-line="195" selection-start-column="17" selection-end-line="195" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/on_the_road/Set与list.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/on_the_road/JSONObject.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fist_week/List数组.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#171#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/on_the_road/scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/on_the_road/SerializeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/on_the_road/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/on_the_road/list中map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/on_the_road/hashmap与hashset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/on_the_road/News.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/on_the_road/map与hashmap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="41" selection-start-line="41" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#341#356#0" expanded="true" />
+            <element signature="e#973#988#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/on_the_road/map_tostring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_111/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="1501" column="15" selection-start-line="1501" selection-start-column="15" selection-end-line="1501" selection-end-column="15" />
+          <folding>
+            <element signature="e#58481#58482#0" expanded="true" />
+            <element signature="e#58518#58519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/on_the_road/Mapobject_Jsonobject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

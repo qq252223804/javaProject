@@ -8,7 +8,7 @@ import java.io.File;
 public class 缓存流buffer {
 	public static void main(String[] args) {
 		// 向文件lol2.txt中写入三行语句
-		File f = new File("C:\\Users\\p\\Desktop\\myproject\\src\\main\\java\\second_week\\stream.txt");
+		File f = new File("src/main/java/second_week/stream.txt");
 		try {
 			// 创建文件字符流
 			FileWriter fw = new FileWriter(f);

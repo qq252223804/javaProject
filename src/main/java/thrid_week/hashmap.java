@@ -11,11 +11,12 @@ public class hashmap {
 		HashMap<String,String> hashMap = new HashMap<String,String>();
 
 		//HashMap可以用null作key,作value
-		hashMap.put(null, "123");
-		hashMap.put("123", null);
-		System.out.println(hashMap.values());
+		hashMap.put("aa", "123");
+		hashMap.put("bb", "456");
 		System.out.println(hashMap);
-		System.out.println(hashMap.containsKey("123"));
+		System.out.println(hashMap.get("aa"));
+		System.out.println(hashMap.keySet());
+		System.out.println(hashMap.containsValue("123"));
 
 	}
 }

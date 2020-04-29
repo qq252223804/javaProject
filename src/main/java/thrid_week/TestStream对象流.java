@@ -11,12 +11,10 @@ public class TestStream对象流 {
 	public static void main(String[] args) {
 		//创建一个Hero garen
 		//要把Hero对象直接保存在文件上，务必让Hero类实现Serializable接口
-		Hero h = new Hero();
-		h.hp=616;
-		h.name="timo";
+		Hero h = new Hero("tomo",1000);
 
 		//准备一个文件用于保存该对象
-		File f =new File("C:\\Users\\p\\Desktop\\myproject\\src\\main\\java\\thrid_week\\garen.lol");
+		File f =new File("src/main/java/thrid_week/timo.txt");
 
 		try(
 				//创建对象输出流

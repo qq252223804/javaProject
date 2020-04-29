@@ -47,7 +47,9 @@ public class Hero1 extends hero_base {
 
 		LifePotion ii =new LifePotion();
 		h2.useItem(ii);
-		System.out.println(h2.toString());
+		System.out.println(h2.name);
+		System.out.println(h2.hp);
+
 
 	}
 
