@@ -25,7 +25,7 @@ public class Mapobject_Jsonobject {
 //在jsonobject对象中取某一个值需封装 不采取
         System.out.println(jsonObject.get("contend"));
 //   在map对象中取值
-        Object res=data.get("contend");
+        Object res=jsonObject.get("contend");
         List<Map<String, Object>> infos= (List<Map<String, Object>>) res;
         for(Map<String, Object> info :infos){
             String bid= (String) info.get("bid");
